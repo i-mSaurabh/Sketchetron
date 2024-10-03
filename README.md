@@ -8,7 +8,7 @@
 
 The main goal of the **Sketchetron** project is to build a robot that can autonomously create art. By leveraging engineering and design, Sketchetron will not only draw basic shapes but also replicate logos and even generate sketches from given images. 
 
-### Phases of the Project
+### Phases of the Competition
 
 - **Phase 1**: Drawing basic geometric shapes on an A3 sheet.
 - **Phase 2**: Reproducing the Robotics Club logo within a 15cm x 15cm area.
